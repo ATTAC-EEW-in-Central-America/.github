@@ -6,5 +6,5 @@
 👩‍💻 Further useful resources can be found on [the ATTAC project page](http://www.seismo.ethz.ch/en/research-and-teaching/ongoing-projects/) and the [EEW group page of the ETHZ-SED website](http://www.seismo.ethz.ch/en/research-and-teaching/fields_of_research/earthquake-early-warning/).
 
 <center>
-<img src="logo nbg.png" width="200">
+<img src="logo nobg.png" width="200">
 </center>
